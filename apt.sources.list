@@ -1,0 +1,8 @@
+ deb http://mirrors.163.com/ubuntu/ trusty main restricted
+ deb-src http://mirrors.163.com/ubuntu/ trusty main restricted
+
+ deb http://mirrors.163.com/ubuntu/ trusty universe
+ deb-src http://mirrors.163.com/ubuntu/ trusty universe
+ 
+ deb http://mirrors.163.com/ubuntu/ trusty multiverse
+ deb-src http://mirrors.163.com/ubuntu/ trusty multiverse
